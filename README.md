@@ -6,8 +6,8 @@
 </div>
 
 # Introduction
-This repository contains all the projects I completed during my pursuit of the Data Scientist Nanodegree:
-### Data Science Basic
+This repository contains all the projects and insights during my pursuit of the Data Scientist Nanodegree at Udacity:
+### Data Science Basic Skills
  - Python for Data Analysis, SQL, SAS, R
  - Data Visualization
  - Command Line Essentials, Git & GitHub

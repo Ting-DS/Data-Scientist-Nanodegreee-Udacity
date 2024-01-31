@@ -17,3 +17,10 @@ This repository contains all the projects and insights during my pursuit of the 
  - Communicating to non/technical stakeholders via GitHub Repo, Blog Post, dashboard, story-telling.
  - Project: [StackOverflow 2021-2023 Survey Data Analysis](https://github.com/Ting-DS/Data-Scientist-Nanodegreee-Udacity/tree/main/StackOverflow_Survey_Insights)
  - Medium Post: [Decoding Data Science Career: PhD or not](https://medium.com/@LobsterTing/revealing-data-science-careers-is-a-phd-a-necessity-487ac40ceac6)
+
+### Software Engineering
+ -  Modularized code & version control, Test-driven development (TDD) and Unit test; Object-Oriented Programming (OOP), PyPi
+ -  Web Development: front-end (HTML, CSS, Javascript, Bootstrap, Plotly), back-end (Flask)
+ -  Project/Web App: [COVID-19 Time Series Forecasting Interactive Dashboard using Dash and Plotly](https://tinglu.pythonanywhere.com/)
+
+### 

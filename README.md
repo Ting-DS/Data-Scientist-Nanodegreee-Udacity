@@ -51,7 +51,7 @@ I would like to extend my sincere gratitude to data science teams in
 - [AWS (Amazon Web Services)](https://aws.amazon.com/)
 - [Apache](https://www.apache.org/)
 
-for their contribution in making this valuable resource available to the public. A special acknowledgment goes to Udacity for their exceptional guidance throughout this project. Feel free to utilize the contents of this work, and when doing so, please remember to appropriately attribute the contributions of myself, and/or Sparkify.
+for their contribution in making this valuable resource available to the public. A special acknowledgment goes to Udacity for their exceptional guidance throughout this project. Feel free to utilize the contents of this work, and when doing so, please remember to appropriately attribute the contributions of myself, and/or Udacity.
 
 
 

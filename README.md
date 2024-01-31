@@ -7,7 +7,7 @@
 
 # Introduction
 This repository contains all the projects and insights during my pursuit of the Data Scientist Nanodegree at Udacity:
-### Data Science Basic Skills: 
+### Data Science Basic Skills
  - Python, SQL, SAS, R; Data Visualization; Command Line Essentials, Git & GitHub; Practical Statistics, Linear Algebra, Machine Learning
 ### Part 1. Cross-industry Standard Process for Data Mining [CRISP-DM](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining)
  - Business Understanding，Data Understanding， Data Preparation, Data Modeling, Result Evaluation, Deployment

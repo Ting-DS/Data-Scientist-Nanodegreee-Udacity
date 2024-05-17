@@ -15,6 +15,10 @@ This repository contains all the projects and insights during my pursuit of the 
  - Project: [StackOverflow 2021-2023 Survey Data Analysis](https://github.com/Ting-DS/Data-Scientist-Nanodegreee-Udacity/tree/main/StackOverflow_Survey_Insights)
  - Medium Post: [Decoding Data Science Career: PhD or not](https://medium.com/@LobsterTing/revealing-data-science-careers-is-a-phd-a-necessity-487ac40ceac6)
 
+<div align="center">
+  <img src="https://github.com/Ting-DS/Data-Scientist-Nanodegreee-Udacity/blob/main/StackOverflow_Survey_Insights/stackoverflow.png" width="50%">
+</div>
+
 ### Part 2. Software Engineering
  -  Modularized code & version control, Test-driven development (TDD) and Unit test; Object-Oriented Programming (OOP), PyPi
  -  Web Development: front-end (HTML, CSS, Javascript, Bootstrap, Plotly), back-end (Flask)

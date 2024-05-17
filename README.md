@@ -6,7 +6,7 @@
 </div>
 
 # Introduction
-This repository contains all the projects and insights during my pursuit of the Data Scientist Nanodegree at Udacity:
+This repository contains 5 DS projects and insights during my pursuit of the Data Scientist Nanodegree at Udacity:
 ### Data Science Basic Skills
  - Python, SQL, SAS, R; Data Visualization; Command Line Essentials, Git & GitHub; Practical Statistics, Linear Algebra, Machine Learning
 ### Part 1. Cross-industry Standard Process for Data Mining [CRISP-DM](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining)
@@ -24,23 +24,42 @@ This repository contains all the projects and insights during my pursuit of the 
  -  Web Development: front-end (HTML, CSS, Javascript, Bootstrap, Plotly), back-end (Flask)
  -  Project (Web App): [COVID-19 Time Series Forecasting Interactive Dashboard using Dash and Plotly](https://tinglu.pythonanywhere.com/)
 
+<div align="center">
+  <img src="https://github.com/Ting-DS/Data-Scientist-Nanodegreee-Udacity/blob/main/dashboard.png" width="50%">
+</div>
+
 ### Part 3. Data Engineering
  - ETL pipeline, NLP pipeline, Machine Learning Pipeline, SQLite, Flask Web App
  - Project: [Disaster Message Multi-label Classification ML Pipeline](https://github.com/Ting-DS/Data-Scientist-Nanodegreee-Udacity/tree/main/Disaster_Classification_ETL_Pipeline)
+
+<div align="center">
+  <img src="https://github.com/Ting-DS/Data-Scientist-Nanodegreee-Udacity/blob/main/Disaster_Classification_ETL_Pipeline/Pipeline.png" width="50%">
+</div>
 
 ### Part 4. Experimental Design (A/B Testing)
  - Statistical Considerations in A/B Testing, Metric Analysis, Post-Analysis
  - Project: [Starbucks Promotion Strategy Optimization](https://github.com/Ting-DS/Data-Scientist-Nanodegreee-Udacity/tree/main/Starbucks_ABtest_Promo_Optimization)
  - Medium Post: [After A/B Test: Optimize a Advertising Promotion Strategy by Audience Targeting](https://medium.com/@LobsterTing/optimize-a-promotion-strategy-by-a-b-testing-and-audience-targeting-17b7ec49c55b)
+<div align="center">
+  <img src="https://github.com/Ting-DS/Data-Scientist-Nanodegreee-Udacity/blob/main/Starbucks_ABtest_Promo_Optimization/starbucks.png" width="50%">
+</div>
 
 ### Part 5. Recommendation System
  - Knowledge-Based Recommendations, Collaborative Filtering Based Recommendations, Content-Based Recommendations, Matrix Factorization for Recommendations
  - Project: [Recommendation for New Articles in IBM Watson Studio](https://github.com/Ting-DS/Data-Scientist-Nanodegreee-Udacity/tree/main/Recommendation_IBM_WatsonStudio)
 
+<div align="center">
+  <img src="https://github.com/Ting-DS/Data-Scientist-Nanodegreee-Udacity/blob/main/Recommendation_IBM_WatsonStudio/Recommendation.png" width="50%">
+</div>
+
 ### Capstone Project. Big Data Analysis with Spark
  - Apache Spark, Spark Data Frames, Spark ML, Spark SQL, AWS Elastic MapReduce (EMR)
  - Project: [Music App User Churn Prediction using 12GB activities data](https://github.com/Ting-DS/Data-Scientist-Nanodegreee-Udacity/tree/main/MusicApp_Spark_ML_AWS)
  - Medium Post: [Predict User Churn with Spark & AWS](https://medium.com/@LobsterTing/spark-ml-with-aws-emr-acdfab30ef01)
+
+<div align="center">
+  <img src="https://github.com/Ting-DS/Data-Scientist-Nanodegreee-Udacity/blob/main/MusicApp_Spark_ML_AWS/spark_progress.png" width="50%">
+</div>
 
 # Licensing, Authors, Acknowledgements
 

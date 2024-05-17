@@ -16,7 +16,7 @@ This repository contains all the projects and insights during my pursuit of the 
  - Medium Post: [Decoding Data Science Career: PhD or not](https://medium.com/@LobsterTing/revealing-data-science-careers-is-a-phd-a-necessity-487ac40ceac6)
 
 <div align="center">
-  <img src="https://github.com/Ting-DS/Data-Scientist-Nanodegreee-Udacity/blob/main/StackOverflow_Survey_Insights/stackoverflow.png" width="50%">
+  <img src="https://github.com/Ting-DS/Data-Scientist-Nanodegreee-Udacity/blob/main/StackOverflow_Survey_Insights/stackoverflow_medium.png" width="50%">
 </div>
 
 ### Part 2. Software Engineering

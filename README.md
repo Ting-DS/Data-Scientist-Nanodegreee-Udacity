@@ -11,7 +11,7 @@ This repository contains 5 DS projects and insights during my pursuit of the Dat
  - Python, SQL, SAS, R; Data Visualization; Command Line Essentials, Git & GitHub; Practical Statistics, Linear Algebra, Machine Learning
 ### Part 1. Cross-industry Standard Process for Data Mining [CRISP-DM](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining)
  - Business Understanding，Data Understanding， Data Preparation, Data Modeling, Result Evaluation, Deployment
- - Communicating to non/technical stakeholders via GitHub Repo, Blog Post, dashboard, story-telling.
+ - Communicating to non-technical stakeholders via GitHub Repo, Blog Post, dashboard, story-telling.
  - Project: [StackOverflow 2021-2023 Survey Data Analysis](https://github.com/Ting-DS/Data-Scientist-Nanodegreee-Udacity/tree/main/StackOverflow_Survey_Insights)
  - Medium Post: [Decoding Data Science Career: PhD or not](https://medium.com/@LobsterTing/revealing-data-science-careers-is-a-phd-a-necessity-487ac40ceac6)
 
